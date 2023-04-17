@@ -1,1 +1,1 @@
-# HibernateBasics
+# Hibernate Basics
